@@ -98,4 +98,11 @@ Icon
 .AppleDesktop
 Network Trash Folder
 Temporary Items
-.apdisk 
+.apdisk
+
+# Local development notes
+CLAUDE.md
+*.profraw
+
+# Claude Code
+.claude/smarter-claude/
